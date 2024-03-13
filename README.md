@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 - - -
 
-산책로 기록 어플리케이션입니다.
+# 산책로 기록 어플리케이션입니다.
