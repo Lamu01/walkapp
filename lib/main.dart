@@ -20,7 +20,7 @@ class  MyApp extends StatelessWidget {
             child: Container(
               width:double.infinity, height:70, color: Colors.blue,
               padding: EdgeInsets.fromLTRB(30, 0, 0, 0),
-              child: Text('어랍쇼')
+              child: Text('으라챠챠')
             ),
           )
 
