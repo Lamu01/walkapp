@@ -18,3 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 - - -
 
 # 산책로 기록 어플리케이션입니다.
+
+- - -
+
+## March Approach
+
+아무 동작하지 않는 홈화면 만들기
